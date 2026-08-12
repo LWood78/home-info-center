@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1.7
-# test
+
 # ----- STAGE 1: Build Vue frontend -----
 FROM node:22-alpine AS frontend-builder
 
