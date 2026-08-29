@@ -1,6 +1,6 @@
 # Development dependencies (linting, testing)
 -r requirements.txt
-pytest>=9.0.3
+pytest>=9.1.1
 pytest-cov>=5.0
 pytest-mock>=3.14
 ruff>=0.7
