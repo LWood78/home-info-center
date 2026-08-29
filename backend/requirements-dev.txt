@@ -8,4 +8,4 @@ mypy>=1.11
 types-requests
 types-pytz
 responses>=0.25
-pre-commit>=4.0
+pre-commit>=4.6.0
